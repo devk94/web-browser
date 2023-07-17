@@ -1,7 +1,7 @@
-orm PyQt5.QtWidgets import *
-form PyQt5.QtGui import *
-form PyQt5.QtCore import *
-form PyQt5.QtWebEngineWidgets import *
+form pyQt5.QtWidgets import *
+form pyQt5.QtGui import *
+form pyQt5.QtCore import *
+form pyQt5.QtWebEngineWidgets import *
 
 
 class MyWebBrowser(QMainWindow):
